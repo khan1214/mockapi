@@ -1,5 +1,4 @@
-[
-    {
+ {
         "copyright": "ESA/HubbleNASA",
         "date": "2019-12-01",
         "explanation": "Why does this galaxy have a ring of bright blue stars?  Beautiful island universe Messier 94 lies a mere 15 million light-years distant in the northern constellation of the Hunting Dogs (Canes Venatici). A popular target for Earth-based astronomers, the face-on spiral galaxy is about 30,000 light-years across, with spiral arms sweeping through the outskirts of its broad disk. But this Hubble Space Telescope field of view spans about 7,000 light-years across M94's central region. The featured close-up highlights the galaxy's compact, bright nucleus, prominent inner dust lanes, and the remarkable bluish ring of young massive stars. The ring stars are all likely less than 10 million years old, indicating that M94 is a starburst galaxy that is experiencing an epoch of rapid star formation from inspiraling gas. The circular ripple of blue stars is likely a wave propagating outward, having been triggered by the gravity and rotation of a oval matter distributions. Because M94 is relatively nearby, astronomers can better explore details of its starburst ring.    Astrophysicists: Browse 2,000+ codes in the Astrophysics Source Code Library",
@@ -20,13 +19,12 @@
         "url": "https://apod.nasa.gov/apod/image/1912/M27_Mazlin_960.jpg"
     },
     {
-        "copyright": "Rui Liao",
-        "date": "2019-12-31",
-        "explanation": "The small, northern constellation Triangulum harbors this magnificent face-on spiral galaxy, M33. Its popular names include the Pinwheel Galaxy or just the Triangulum Galaxy. M33 is over 50,000 light-years in diameter, third largest in the Local Group of galaxies after the Andromeda Galaxy (M31), and our own Milky Way. About 3 million light-years from the Milky Way, M33 is itself thought to be a satellite of the Andromeda Galaxy and astronomers in these two galaxies would likely have spectacular views of each other's grand spiral star systems. As for the view from planet Earth, this sharp image shows off M33's blue star clusters and pinkish star forming regions along the galaxy's loosely wound spiral arms. In fact, the cavernous NGC 604 is the brightest star forming region, seen here at about the 7 o'clock position from the galaxy center. Like M31, M33's population of well-measured variable stars have helped make this nearby spiral a cosmic yardstick for establishing the distance scale of the Universe.",
-        "hdurl": "https://apod.nasa.gov/apod/image/1912/M33-HaLRGB-RayLiao.jpg",
+        "copyright": "Ivan Pedretti",
+        "date": "2019-12-04",
+        "explanation": "It may appear, at first, like the Galaxy is producing the lightning, but really it's the Earth. The featured nighttime landscape was taken from a southern tip of the Italian Island of Sardinia in early June. The foreground rocks and shrubs are near the famous Capo Spartivento Lighthouse, and the camera is pointed south toward Algeria in Africa.  In the distance, across the Mediterranean Sea, a thunderstorm is threatening, with several electric lightning strokes caught together during this 25-second wide-angle exposure.  Much farther in the distance, strewn about the sky, are hundreds of stars in the neighborhood of our Sun in the Milky Way Galaxy. Farthest away, and slanting down from the upper left, are billions of stars that together compose the central band of our Milky Way.   Free Lecture: APOD editor to speak in NYC on January 3",
+        "hdurl": "https://apod.nasa.gov/apod/image/1912/ElectricMilkyWay_Pedretti_1920.jpg",
         "media_type": "image",
         "service_version": "v1",
-        "title": "M33: The Triangulum Galaxy",
-        "url": "https://apod.nasa.gov/apod/image/1912/M33-HaLRGB-RayLiao1024.jpg"
+        "title": "Electric Night",
+        "url": "https://apod.nasa.gov/apod/image/1912/ElectricMilkyWay_Pedretti_1080.jpg"
     }
-]
